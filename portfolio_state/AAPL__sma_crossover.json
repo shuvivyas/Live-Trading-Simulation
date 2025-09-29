@@ -1,0 +1,9 @@
+{
+  "symbol": "AAPL",
+  "strategy": "sma_crossover",
+  "cash": 0.0,
+  "position": 44.421375802400945,
+  "last_price": 255.4600067138672,
+  "equity": 11347.884960720563,
+  "updated_at": "2025-09-27T19:47:00.684173"
+}

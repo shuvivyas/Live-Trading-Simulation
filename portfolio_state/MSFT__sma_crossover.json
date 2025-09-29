@@ -1,0 +1,9 @@
+{
+  "symbol": "MSFT",
+  "strategy": "sma_crossover",
+  "cash": 0.0,
+  "position": 22.678159605611068,
+  "last_price": 511.4599914550781,
+  "equity": 11598.971318102735,
+  "updated_at": "2025-09-27T17:02:15.160597"
+}
